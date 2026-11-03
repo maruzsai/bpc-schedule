@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<rect width="64" height="64" rx="10" fill="#090a0c"/>
+<g transform="skewX(-24) translate(14 0)"><rect x="6" y="40" width="14" height="8" fill="#f0281e"/><rect x="20" y="40" width="14" height="8" fill="#f1f1f1"/><rect x="34" y="40" width="14" height="8" fill="#f0281e"/><rect x="48" y="40" width="14" height="8" fill="#f1f1f1"/></g>
+<text x="32" y="34" text-anchor="middle" font-family="Arial Narrow,Arial,sans-serif" font-weight="700" font-style="italic" font-size="26" fill="#fff">BPC</text>
+</svg>
